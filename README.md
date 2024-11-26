@@ -1,4 +1,4 @@
-Olá, me chamo gabriel, atualmente estou me aprofundando em .Net 6.
+Olá, me chamo gabriel, atualmente estou me aprofundando em FrontEnd.
 
 <!---
 gabr7887/gabr7887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
